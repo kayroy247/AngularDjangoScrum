@@ -1,0 +1,1 @@
+web: gunicorn angularscrum.wsgi --log-file -
